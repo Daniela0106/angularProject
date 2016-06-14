@@ -1,0 +1,24 @@
+h3{
+    align-content: center;
+    padding: 20px;
+}
+ul{
+    padding: 20px;
+}
+ul.list-group{
+    margin-left: 10px;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+@media only screen and (max-width: 500px) {
+    img{
+        width:100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+#prettyButtons{
+    box-sizing: border-box;
+}
